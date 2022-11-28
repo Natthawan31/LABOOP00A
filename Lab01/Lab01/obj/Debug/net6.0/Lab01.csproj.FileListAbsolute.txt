@@ -1,0 +1,15 @@
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\bin\Debug\net6.0\Lab01.exe
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\bin\Debug\net6.0\Lab01.deps.json
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\bin\Debug\net6.0\Lab01.runtimeconfig.json
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\bin\Debug\net6.0\Lab01.dll
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\bin\Debug\net6.0\Lab01.pdb
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.csproj.AssemblyReference.cache
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfo.cs
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.dll
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\refint\Lab01.dll
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.pdb
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\Lab01.genruntimeconfig.cache
+C:\Users\ADmin\Documents\GitHub\LABOOP00A\Lab01\Lab01\obj\Debug\net6.0\ref\Lab01.dll
